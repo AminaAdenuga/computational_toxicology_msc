@@ -1,0 +1,7 @@
+Step,Rows,Columns
+Raw ECOTOX dataset,4695,94
+Removed duplicate records,4695,94
+Removed missing LC50 records,4609,58
+Removed unnecessary columns,4609,25
+Removed high-missing columns,4584,17
+Final cleaned dataset,4584,17

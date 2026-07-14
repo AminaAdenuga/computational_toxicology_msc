@@ -1,0 +1,7 @@
+Metric,Value
+Raw Records,4695
+Final Records,4584
+Raw Features,94
+Final Features,17
+Unique Chemicals,1302
+Target Variable,log_LC50

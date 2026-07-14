@@ -1,0 +1,15 @@
+Column,Data Type,Missing Values
+CAS Number,int64,0
+Chemical Name,object,0
+Chemical Analysis,object,0
+Test Method,object,0
+Exposure Type,object,0
+Media Type,object,0
+Conc 1 Type (Standardized),object,12
+Conc 1 Mean (Standardized),float64,0
+Conc Min 1 (Standardized),float64,1764
+Conc 1 Max (Standardized),float64,1764
+Effect,object,0
+Effect Measurement,object,0
+Chemical DTXSID,object,5
+log_LC50,float64,0
